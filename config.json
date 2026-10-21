@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "format": "h:mm",
+  "showSeconds": false,
+  "showDate": true,
+  "dateFormat": "dddd, MMMM d",
+  "fontFamily": "Rubik",
+  "fontWeight": 300,
+  "fontScale": 0.15,
+  "dateScale": 0.22,
+  "letterSpacing": -3,
+  "colorMode": "scheme",
+  "colorRole": "onSurface",
+  "color": "",
+  "opacity": 0.92,
+  "shadow": true,
+  "xRatio": 0.5,
+  "yRatio": 0.2,
+  "screens": []
+}
